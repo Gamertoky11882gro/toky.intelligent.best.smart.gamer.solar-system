@@ -42,3 +42,39 @@ body {
 .planet:hover:before {
   opacity: 1;
 }
+
+#sun {
+  background-color: yellow;
+}
+
+#mercury {
+  background-color: gray;
+}
+
+#venus {
+  background-color: brown gray;
+}
+
+#earth {
+  background-color: blue brown green white;
+}
+
+#marc {
+  background-color: red brown tan;
+}
+
+#jupiter {
+  background-color: brown orange tan whitesmoke;
+}
+
+#saturn {
+  background-color: gold brown blue grey;
+}
+
+#uranus {
+  background-color: blue green;
+}
+
+#neptune {
+  background-color: blue;
+}
